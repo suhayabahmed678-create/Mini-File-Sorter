@@ -17,3 +17,11 @@ Miscellaneous
 The program uses file extensions to classify files and provides a structured summary output.
 
 This project demonstrates core concepts from File Handling and Software Design using Python.
+
+ How It Works
+Program selects a base directory
+Iterates through all files
+Extracts file extensions
+Maps extensions to categories
+Stores results in a dictionary (bucket)
+Prints a grouped summary
