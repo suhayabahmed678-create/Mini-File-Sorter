@@ -2,7 +2,6 @@ from pathlib import Path
 
 # ------------------------------
 # Optional Utilities
-# ------------------------------
 try:
     from utils.config_manager import ConfigManager
     BASE_PATH = getattr(ConfigManager, "SCAN_PATH", Path("."))
