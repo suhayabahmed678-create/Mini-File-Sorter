@@ -24,7 +24,6 @@ EXTENSION_MAP = {
 }
 
 
-# ------------------------------
 # Core Engine
 # ------------------------------
 class MiniSorter:
